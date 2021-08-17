@@ -14,6 +14,6 @@ It is a Music recommendation app , that will tell you top songs from different g
 
 
 ## Project link :
-Emoji Interpretor:https://m7nxg.csb.app/
+Music recommendation app : zonb3.csb.app/
 
 ## Thank you !
