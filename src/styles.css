@@ -1,0 +1,27 @@
+.App {
+  font-family: "Nunito", sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #12cbc4;
+}
+button {
+  border-radius: 0.8rem;
+  padding: 1em;
+  margin: 1em 1em;
+  color: white;
+  background: linear-gradient(to right, #8e0e00, #1f1c18);
+  width: 6rem;
+  height: 3rem;
+  font-weight: bold;
+  font-size: 1rem;
+  border: none;
+  cursor: pointer;
+}
+.song {
+  width: 40%;
+  background-color: #8ee4af;
+  padding: 0.5rem;
+  margin: auto;
+  margin-bottom: 10px;
+}
